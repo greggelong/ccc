@@ -9,5 +9,5 @@
 
 ## Class 2. Shapes and color
 
-## <a href="https://editor.p5js.org/gregk/sketches/S1xc8mtYr" target="_blank">Class 1 code</a>
+## <a href="https://editor.p5js.org/gregk/sketches/S1xc8mtYr" target="_blank">Class 2 code</a>
 
