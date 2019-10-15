@@ -11,3 +11,10 @@
 
 ## <a href="https://editor.p5js.org/gregk/sketches/S1xc8mtYr" target="_blank">Class 2 code</a>
 
+## Class 3. Variables, movement, and if(){}
+
+## <a href="https://editor.p5js.org/gregk/sketches/59OqZp8GT" target="_blank">Class 3 code 1</a>
+
+## <a href="https://editor.p5js.org/gregk/sketches/SIMYwjI2y" target="_blank">Class 3 code 2</a>
+
+## <a href="https://editor.p5js.org/gregk/sketches/OeOTVNPZw" target="_blank">Class 3 Michael's code</a>
