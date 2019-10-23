@@ -18,3 +18,5 @@
 ## <a href="https://editor.p5js.org/gregk/sketches/SIMYwjI2y" target="_blank">Class 3 code 2</a>
 
 ## <a href="https://editor.p5js.org/gregk/sketches/OeOTVNPZw" target="_blank">Class 3 Michael's code</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/y-b_laC-B" target="_blank">Class 3 Objects and vectors</a>
