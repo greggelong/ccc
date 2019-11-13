@@ -50,4 +50,4 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/J1KR3HgMc" target="_blank">Class 5 ball_game_function_hit_score_hard code 5</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/JJ8e9DZU2" target="_blank">Class 5 ball_game_function_hit_score_hard_ball_size_new_collision code 4</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/JJ8e9DZU2" target="_blank">Class 5 ball_game_function_hit_score_hard_ball_size_new_collision code 6</a>
