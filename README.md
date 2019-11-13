@@ -35,3 +35,15 @@
 ## <a href="https://editor.p5js.org/greggelong/sketches/77ZhrwGrl" target="_blank">Class 4 for loops code 3, loops, arrays and text</a>
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/4ZsSykWTb" target="_blank">Class 4 for loops code 4, nested loops, arrays and mouseClicked</a>
+
+## Class 5. Functions and a GAME!
+
+## <a href="https://editor.p5js.org/greggelong/sketches/16FuDOm37" target="_blank">Class 5 for loops code 0</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/1AfVJDOlx" target="_blank">Class 5 for loops code 1</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/z9BeFbcg9" target="_blank">Class 5 for loops code 2, nested loops</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/77ZhrwGrl" target="_blank">Class 5 for loops code 3, loops, arrays and text</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/4ZsSykWTb" target="_blank">Class 5 for loops code 4, nested loops, arrays and mouseClicked</a>
