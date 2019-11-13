@@ -38,12 +38,16 @@
 
 ## Class 5. Functions and a GAME!
 
-## <a href="https://editor.p5js.org/greggelong/sketches/16FuDOm37" target="_blank">Class 5 for loops code 0</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/pCkG2kVjq" target="_blank">Class 5 Hello_Function code 0</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/1AfVJDOlx" target="_blank">Class 5 for loops code 1</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/6hZxbdbnh" target="_blank">Class 5 Hello_Function_Arguments code 1</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/z9BeFbcg9" target="_blank">Class 5 for loops code 2, nested loops</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/ugpP6QNDJ" target="_blank">Class 5 ball_game_function code 2 </a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/77ZhrwGrl" target="_blank">Class 5 for loops code 3, loops, arrays and text</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/yc83kQBGH" target="_blank">Class 5 ball_game_function_hit code 3</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/4ZsSykWTb" target="_blank">Class 5 for loops code 4, nested loops, arrays and mouseClicked</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/2v7vnPIwY" target="_blank">Class 5 ball_game_function_hit_score code 4</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/J1KR3HgMc" target="_blank">Class 5 ball_game_function_hit_score_hard code 5</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/JJ8e9DZU2" target="_blank">Class 5 ball_game_function_hit_score_hard_ball_size_new_collision code 4</a>
