@@ -62,7 +62,7 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/EY9XcdHnP" target="_blank">Class 6: *CODE_1* Modulo and frameCount simple movement</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/WRIWXpKfy" target="_blank">Class 6: *CODE_2* sine wave with modulo 3</a>
+## <a href="https://editor.p5js.org/greggelong/sketches/WRIWXpKfy" target="_blank">Class 6: *CODE_2* sine wave with modulo</a>
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/vaGm6hY3l" target="_blank">Class 6: *CODE_3* Using sin() to move things</a>
 
