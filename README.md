@@ -60,7 +60,7 @@
 
 ## <a href="https://editor.p5js.org/greggelong/full/Dz1N6pBMA" target="_blank">Class 6 EXAMPLE of multiplying with modulo</a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/ugpP6QNDJ" target="_blank">Class 6 Modulo and frameCount simple movement code 1 </a>
+## <a href="https://editor.p5js.org/greggelong/sketches/EY9XcdHnP" target="_blank">Class 6 Modulo and frameCount simple movement code 1 </a>
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/WRIWXpKfy" target="_blank">Class 6 sine wave with mod 3</a>
 
