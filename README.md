@@ -58,7 +58,9 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/ju-xrR1IE" target="_blank">Class 6: *CODE_0* modulo_print and drawing</a>
 
-## <a href="https://editor.p5js.org/greggelong/full/Dz1N6pBMA" target="_blank">Class 6: *EXAMPLE* of multiplying with modulo</a>
+## <a href="https://editor.p5js.org/greggelong/full/904YB9suy" target="_blank">Class 6: *EXAMPLE1* of multiplying with modulo</a>
+
+## <a href="https://editor.p5js.org/greggelong/full/Dz1N6pBMA" target="_blank">Class 6: *EXAMPLE2* of multiplying with modulo</a>
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/EY9XcdHnP" target="_blank">Class 6: *CODE_1* Modulo and frameCount simple movement</a>
 
@@ -66,6 +68,7 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/vaGm6hY3l" target="_blank">Class 6: *CODE_3* Using sin() to move things</a>
 
-## <a href="https://editor.p5js.org/greggelong/full/3zDy8fmZl" target="_blank">Class 6: *EXAMPLE* sin() cos() tan() and sliders</a>
+## <a href="https://editor.p5js.org/greggelong/full/3zDy8fmZl" target="_blank">Class 6: *EXAMPLE3* sin() cos() tan() and sliders</a>
 
- 
+
+## <a href="https://editor.p5js.org/greggelong/sketches/t4_Lj0Z78" target="_blank">Class 6: *CODE_4* Using sin() cos() for x and y </a> 
