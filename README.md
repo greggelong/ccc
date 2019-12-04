@@ -72,3 +72,19 @@
 
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/t4_Lj0Z78" target="_blank">Class 6: *CODE_4* Using sin() cos() for x and y </a> 
+
+## Class 7. MATH and Drawing 2: translate(), rotate(), frameCount, modulo, push(), pop()
+
+## <a href="https://editor.p5js.org/greggelong/sketches/RZIpM75P_" target="_blank">Class 7: *CODE_0* translate() moving x=0,y=0 to the middle of the canvas</a>
+ 
+## <a href="https://editor.p5js.org/greggelong/sketches/9txCOasTU" target="_blank">Class 7: *CODE_1* rotate() angle from frameCount</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/76ft43glP" target="_blank">Class 7: *CODE_2* rotate and move using translate()</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/wjArY2XcY" target="_blank">Class 7: *CODE_3* Move using sin() and add another rect()</a>
+ 
+## <a href="https://editor.p5js.org/greggelong/sketches/21N48Kvl2" target="_blank">Class 7: *CODE_4* Using our own function and using push(), pop() to move more than one rect() </a> 
+
+## <a href="https://editor.p5js.org/greggelong/sketches/UjD8b7-Sd" target="_blank">Class 7: *CODE_5.1* rotate() to make a simple flower </a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/qQHZkmJur" target="_blank">Class 7: *CODE_5.2* rotate() to make a beautiful flower </a>
