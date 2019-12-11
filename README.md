@@ -105,6 +105,5 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/aZt98Kj9X" target="_blank">Class 8: *CODE_5* translate() rotate()  make sentences </a> 
 ## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 1* Dan Shiffman in English</a>
-## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 2* *ADVANCED* Dan Shiffman Classes and Objects</a>
-https://www.bilibili.com/video/av52729573/?p=24
-
+## <a href="https://www.bilibili.com/video/av52729573/?p=24" target="_blank">Class 8: *Coding Train video 2* *ADVANCED* Dan Shiffman Classes and Objects</a>
+ 
