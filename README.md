@@ -107,3 +107,8 @@
 ## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 1* Dan Shiffman in English</a>
 ## <a href="https://www.bilibili.com/video/av52729573/?p=24" target="_blank">Class 8: *Coding Train video 2* *ADVANCED* Dan Shiffman Classes and Objects</a>
  
+
+## <a href="https://www.bilibili.com/video/av67325009/" target="_blank">Class 8: *Q_tv video 3 * perlin noise</a> 
+
+## <a href="https://editor.p5js.org/greggelong/sketches/z_ivehunm" target="_blank">Class 8: *Q_tv code*: perlin noise</a>
+ 
