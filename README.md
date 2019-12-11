@@ -105,11 +105,11 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/aZt98Kj9X" target="_blank">Class 8: *CODE_5* translate() rotate()  make sentences </a> 
 
-## <a href="https://www.bilibili.com/video/av67325009/" target="_blank">Class 8: *Q_tv video 3 * perlin noise</a> 
+## <a href="https://www.bilibili.com/video/av67325009/" target="_blank">Class 8: *Q_tv video 3*: perlin noise</a> 
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/z_ivehunm" target="_blank">Class 8: *Q_tv code*: perlin noise</a>
  
-## <a href="https://editor.p5js.org/greggelong/sketches/naCQKmhNf" target="_blank">Class 8: *CODE_6* perlin noise and a UFO</a> 
+## <a href="https://editor.p5js.org/greggelong/sketches/naCQKmhNf" target="_blank">Class 8: *CODE_6*: perlin noise moving landscape and a UFO</a> 
 
 ## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 1* Dan Shiffman in English</a>
 
