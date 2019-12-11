@@ -99,10 +99,12 @@
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/x3ya2H0zE" target="_blank">Class 8: *Q_tv code 2*: random()</a>
  
-## <a href="https://editor.p5js.org/greggelong/sketches/21N48Kvl2" target="_blank">Class 7: *CODE_4* Using our own function and using push(), pop() to move more than one rect() </a> 
+## <a href="https://editor.p5js.org/greggelong/sketches/yejuh1tfM" target="_blank">Class 8: *CODE_3* add translate() and rotate() </a>
 
-## <a href="https://editor.p5js.org/greggelong/sketches/UjD8b7-Sd" target="_blank">Class 7: *CODE_5.1* rotate() to make a simple flower </a>
+## <a href="https://editor.p5js.org/greggelong/sketches/wSC0gn1s4" target="_blank">Class 8: *CODE_4* random sentences from Englishg class </a> 
 
-## <a href="https://editor.p5js.org/greggelong/sketches/qQHZkmJur" target="_blank">Class 7: *CODE_5.2* rotate() to make a beautiful flower </a>
-https://www.bilibili.com/video/av60506637/
-https://editor.p5js.org/greggelong/sketches/x3ya2H0zE
+## <a href="https://editor.p5js.org/greggelong/sketches/aZt98Kj9X" target="_blank">Class 8: *CODE_5* translate() rotate()  make sentences </a> 
+## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 1* Dan Shiffman in English</a>
+## <a href="https://www.bilibili.com/video/av52729573/" target="_blank">Class 8: *Coding Train video 2* *ADVANCED* Dan Shiffman Classes and Objects</a>
+https://www.bilibili.com/video/av52729573/?p=24
+
