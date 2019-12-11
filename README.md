@@ -88,3 +88,19 @@
 ## <a href="https://editor.p5js.org/greggelong/sketches/UjD8b7-Sd" target="_blank">Class 7: *CODE_5.1* rotate() to make a simple flower </a>
 
 ## <a href="https://editor.p5js.org/greggelong/sketches/qQHZkmJur" target="_blank">Class 7: *CODE_5.2* rotate() to make a beautiful flower </a>
+
+## Class 8. END OF SEMESTER 1. Review.  Self-study Videos.  第一学期Coding class结束了。复习。自学的视频。
+
+## <a href="https://www.bilibili.com/video/av60075315/" target="_blank">Class 7: setup() draw() backgound() video</a>
+ 
+## <a href="https://editor.p5js.org/greggelong/sketches/z6IjQbdhe" target="_blank">Class 8: Q_tv code 1: background</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/76ft43glP" target="_blank">Class 7: *CODE_2* rotate and move using translate()</a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/wjArY2XcY" target="_blank">Class 7: *CODE_3* Move using sin() and add another rect()</a>
+ 
+## <a href="https://editor.p5js.org/greggelong/sketches/21N48Kvl2" target="_blank">Class 7: *CODE_4* Using our own function and using push(), pop() to move more than one rect() </a> 
+
+## <a href="https://editor.p5js.org/greggelong/sketches/UjD8b7-Sd" target="_blank">Class 7: *CODE_5.1* rotate() to make a simple flower </a>
+
+## <a href="https://editor.p5js.org/greggelong/sketches/qQHZkmJur" target="_blank">Class 7: *CODE_5.2* rotate() to make a beautiful flower </a>
